@@ -1,0 +1,14 @@
+<Avanet_RSS:VistaModelo xmlns:Avanet_RSS="clr-namespace:Avanet.RSS">
+	<Avanet_RSS:VistaModelo.Favoritos>
+		<Avanet_RSS:Favorito Enlace="Class aliquam vestibulum" Identificador="Curabitur adipiscing maecenas aenean" Resumen="Integer praesent nam sed accumsan" Titulo="Parturient dis est vestibulum curae"/>
+		<Avanet_RSS:Favorito Enlace="Bibendum cras mauris hac duis" Identificador="Donec nullam leo mus" Resumen="Dictumst vestibulum nec" Titulo="Quisque etiam phasellus vivamus"/>
+		<Avanet_RSS:Favorito Enlace="Eleifend adipiscing facilisi nunc" Identificador="Non consequat" Resumen="Aptent auctor" Titulo="Faucibus habitant parturient per"/>
+		<Avanet_RSS:Favorito Enlace="Amet ante arcu fusce convallis" Identificador="Vestibulum inceptos" Resumen="Vestibulum aliquam" Titulo="Sed diam eget congue interdum"/>
+		<Avanet_RSS:Favorito Enlace="Adipiscing parturient cursus" Identificador="Aliquet sem lobortis elit" Resumen="Enim lorem" Titulo="Erat dictum dignissim"/>
+		<Avanet_RSS:Favorito Enlace="Eros elementum" Identificador="Facilisis sit" Resumen="Lectus blandit libero" Titulo="Ligula vestibulum vestibulum"/>
+		<Avanet_RSS:Favorito Enlace="Litora nascetur" Identificador="Nibh commodo" Resumen="Conubia adipiscing parturient cubilia" Titulo="Pharetra luctus placerat morbi vestibulum"/>
+		<Avanet_RSS:Favorito Enlace="Magnis vestibulum" Identificador="Nisi dapibus nulla adipiscing" Resumen="Vel parturient nam" Titulo="Fermentum sed pulvinar vestibulum nisl"/>
+		<Avanet_RSS:Favorito Enlace="Egestas euismod sagittis fringilla" Identificador="Dis habitasse est mattis" Resumen="Senectus proin feugiat hac augue" Titulo="Dolor sociosqu mauris vestibulum"/>
+		<Avanet_RSS:Favorito Enlace="Leo adipiscing" Identificador="Parturient fames" Resumen="Mus nunc nec non mollis" Titulo="Hendrerit vestibulum montes"/>
+	</Avanet_RSS:VistaModelo.Favoritos>
+</Avanet_RSS:VistaModelo>

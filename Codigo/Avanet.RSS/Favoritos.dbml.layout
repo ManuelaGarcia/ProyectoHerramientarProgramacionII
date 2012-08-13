@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Favoritos">
+  <DataContextMoniker Name="/FavoritosDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8e0a81ad-d4cb-4fde-a0d6-faa9c0a2ed3b" absoluteBounds="1.25, 0.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/FavoritosDataContext/Favorito" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c27e6dd7-07d7-4e82-9a05-1141e4e76ced" absoluteBounds="1.265, 0.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
